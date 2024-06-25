@@ -4,8 +4,8 @@
 # eBird provides a snapshot of atlas data at the start of the event, including
 # a list of current atlasers. Grouped checklists should not be merged.
 
-# Projects involved in this event include Maine, New York, MD-DC, 
-# North Carolina.
+# Projects involved in this event include New York, MD-DC, Puerto Rico,
+# Ontario, Newfoundland, Pennsylvania, North Carolina.
 
 library(dplyr)
 library(lubridate)
